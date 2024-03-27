@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Reza Mohammadi</h1>
-<h3 align="center">React.JS Developer</h3>
+<h3 align="center">Full stack Software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rezamohdev&label=Profile%20views&color=0e75b6&style=flat" alt="rezamohdev" /> </p>
 
-- 🌱 I’m currently learning **Full stack developer with Practicum bootcamp**
+- 🌱 I’m currently learning **Full stack Software developer**
 
-- 👨‍💻 All of my projects are available at [https://rezamohdev.github.io/se_project_aroundtheus/](https://rezamohdev.github.io/se_project_aroundtheus/)
+- 👨‍💻 All of my projects are available at [My Portfolio] (https://rezadeveloper.netlify.app/)
 
 - ⚡ Fun fact **I like drawing, water color painting, graphic design and music 🎵🎶**
 
