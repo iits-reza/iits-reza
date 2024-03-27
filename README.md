@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full stack Software developer**
 
-- 👨‍💻 All of my projects are available at [My Portfolio] (https://rezadeveloper.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://rezadeveloper.netlify.app/)
 
 - ⚡ Fun fact **I like drawing, water color painting, graphic design and music 🎵🎶**
 
